@@ -21,7 +21,7 @@ body{
 
 .image { 
   position: relative; 
-  box-sizing: border-box;
+
 }
 
 .image span { 
@@ -29,5 +29,15 @@ body{
   top: 0px; 
   left: 10px; 
   padding: 0 10px 0 10px;
+}
+
+.name{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+}
+
+.job{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
 }
 
