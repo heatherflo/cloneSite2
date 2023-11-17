@@ -1,7 +1,20 @@
+
+.button{
+  background-color: white;
+  color: black;
+  height: 30px;
+  width: 100px
+  
+}
+
+.button:hover{
+background-color: lightgray;
+}
 .bg-hero{
   height: 80vh;
   background-image: url(https://www.w3schools.com/w3images/architect.jpg);
-  background-size: cover 70%;
+  background-size: cover;
+  background-position: bottom;
 }
 
 .bg-house-hero{
@@ -41,3 +54,9 @@ body{
   font-size: 16px;
 }
 
+.footer-logo{
+  background-color: black;
+  color: white;
+  height: 75px
+  
+}
