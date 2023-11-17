@@ -1,0 +1,33 @@
+.bg-hero{
+  height: 80vh;
+  background-image: url(https://www.w3schools.com/w3images/architect.jpg);
+  background-size: cover 70%;
+}
+
+.bg-house-hero{
+  height: 40vh;
+  background-size: cover;
+}
+
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.display-topleft {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.image { 
+  position: relative; 
+  box-sizing: border-box;
+}
+
+.image span { 
+  position: absolute; 
+  top: 0px; 
+  left: 10px; 
+  padding: 0 10px 0 10px;
+}
+
